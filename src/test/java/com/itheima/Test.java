@@ -48,7 +48,7 @@ public class Test {
         student.setAddress("天津");
         mapper.addStudent(student);
         System.out.println(student);
-
+        System.out.println("helloWorld");
     }
     @org.junit.Test
     public void test3() throws IOException {
